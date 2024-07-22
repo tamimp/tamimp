@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tamimp
 - 👀 I’m interested in art, code, and combining the two!
-- 🌱 I’m currently learning HTML, CSS, GIT, and more
+- 🌱 I’m currently learning AI tricks
 - 💞️ I’m looking to collaborate on lots of different projects
 - 📫 How to reach me on here
 - 😄 Pronouns: she/her
