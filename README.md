@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @tamimp
-- 👀 I’m interested in art, code, and combining the two!
-- 🌱 I’m currently learning AI tricks
-- 💞️ I’m looking to collaborate on lots of different projects
--  😄 Pronouns: she/her
-- ⚡ Fun fact: I have 2 rescue dogs
-- 📫 want to more info about me? Head over to my linkedin: https://www.linkedin.com/in/tamipoliwoda/
+**PROFILE**
+I’m a Full-Stack Developer- including front end, back end, PLUS animation and design. Transitioned to software development from a successful career in animation, bringing a keen eye for detail and creativity to problem-solving. 
 
-<!---
-tamimp/tamimp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**SKILLS**
+HTML, CSS, JavaScript, Node, React, Express, MySQL, Agile Development, Document Object Model (DOM) APIs, Web APIs, User Authentication, OAuth, Heroku, GitHub, Jest, Unity,  Project Management, Motion Graphics, Adobe Creative Suite (After Effects, Photoshop, Illustrator, Premiere Pro), Visual Design 2D and 3D Animation, Illustration, Storyboards.
+
+**LANGUAGES**
+English, French and Hebrew
