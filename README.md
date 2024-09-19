@@ -27,24 +27,6 @@ I’m a Full-Stack Developer with expertise in front-end, back-end, and animatio
 
 ---
 
-## Projects
-
-### [Save-A-Smile](https://github.com/yourusername/save-a-smile)
-**Role:** Full Stack Developer | **Date:** September 2024  
-**BrainStation Capstone Project**  
-Developed Save-A-Smile, a web app designed to bring joy through cherished memories. Built with React and Node.js, the app allows users to upload photos and save meaningful moments, enhancing emotional well-being through interactive design.
-
-### [HorseHorseHorse](https://github.com/yourusername/horsehorsehorse)
-**Role:** Full Stack Developer | **Date:** August 2024  
-**Independent Front End App**  
-Created an interactive web app that generates randomly colored horses with each click, using React and SCSS. Implemented a playful feature allowing users to pet the horses, triggering a friendly greeting, enhancing user engagement and adding a whimsical touch to the experience.
-
-### Telus Industry Project (2024, BrainStation)
-**Role:** Full Stack Developer  
-**Description:** Participated in a 24-hour collaborative hackathon with Telus, working in a cross-functional team to develop a solution for a real-world challenge. Utilized skills in front-end development, API integration, and teamwork to deliver a project under tight deadlines, reflecting industry standards and remote work practices.
-
----
-
 ## Education
 
 ### BrainStation | Diploma in Software Engineering
