@@ -39,13 +39,3 @@ I’m a Full-Stack Developer with expertise in front-end, back-end, and animatio
 **September 2020 - May 2021** | Oakville, ON
 
 ---
-
-## Experience
-
-### Motion Graphics Designer | Freelance
-**January 2019 - Present** | Remote  
-Created over 100 motion graphics, animations, and visual effects for 50+ clients, enhancing social media engagement and aligning designs with brand standards to consistently deliver high-quality content. Developed custom animations and graphics using various software, such as After Effects, Illustrator, and Harmony, resulting in improved ad performance metrics.
-
-### Asset Manager (Contract) | IOM Media
-**June 2022 - June 2023** | Halifax, NS  
-Managed a library of over 1,000 assets, including 3D models, textures, and animations, ensuring efficient access and workflow for the creative team. Coordinated with a team of over 30 animators, designers, and production staff to refine asset workflows, optimizing processes, enhancing productivity, and ensuring timely project deliveries.
