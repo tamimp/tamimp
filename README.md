@@ -2,7 +2,7 @@
 
 **Full Stack Developer**
 
-[Email Me](mailto:tamipoliwoda@me.com) | [LinkedIn](https://www.linkedin.com/in/tamipoliwoda) | [GitHub](https://github.com/tamimp) | [Portfolio](https://tamipoliwoda.wixsite.com/home)
+[Email Me](mailto:tamipoliwoda@me.com) | [LinkedIn](https://www.linkedin.com/in/tamipoliwoda) | [GitHub](https://github.com/tamimp) | [Portfolio](https://tamipoliwoda.vercel.app/)
 
 ---
 
